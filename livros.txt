@@ -1,0 +1,21 @@
+LIVROS CADASTRADOS
+
+1. Dom Casmurro
+Autor: Machado de Assis
+Ano: 1899
+
+2. Memórias Póstumas de Brás Cubas
+Autor: Machado de Assis
+Ano: 1881
+
+3. O Pequeno Príncipe
+Autor: Antoine de Saint-Exupéry
+Ano: 1943
+
+4. 1984
+Autor: George Orwell
+Ano: 1949
+
+5. O Hobbit
+Autor: J. R. R. Tolkien
+Ano: 1937
