@@ -4,3 +4,4 @@ FUNCIONALIDADES DO CONTROLE DE BIBLIOTECA
 2. Consultar livros
 3. Registrar empréstimos
 4. Registrar devoluções
+5. Renovar empréstimo
